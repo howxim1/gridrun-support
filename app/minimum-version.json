@@ -1,0 +1,4 @@
+{
+  "minimumVersion": "1.0",
+  "note": "Gridrun 1.2.1+ shows a Time for an update screen to versions below this. Only raise it for a game-breaking bug."
+}
